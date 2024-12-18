@@ -53,7 +53,37 @@
         "input.border": "#363f62",
         "scrollbarSlider.background": "#f5f7ff4c",
         "scrollbarSlider.hoverBackground": "#363f62",
-        "scrollbarSlider.activeBackground": "#5a6284"
+        "scrollbarSlider.activeBackground": "#5a6284",
+        // Border colors
+        "contrastBorder": "#363f62",
+        "focusBorder": "#203348",
+        "widget.border": "#363f62",
+        // Sidebar and editor borders
+        "sideBar.border": "#363f62",
+        "sideBarSectionHeader.border": "#363f62",
+        "activityBar.border": "#363f62",
+        "editorGroup.border": "#363f62",
+        "panel.border": "#363f62",
+        // Tree view and list borders
+        "tree.indentGuidesStroke": "#363f62",
+        "list.inactiveSelectionBackground": "#363f62",
+        "list.hoverBackground": "#363f62",
+        "list.activeSelectionBackground": "#5a6284",
+        // Tab borders
+        "tab.border": "#363f62",
+        "tab.activeBorder": "#3e8ed0",
+        "tab.unfocusedActiveBorder": "#363f62",
+        // Editor borders and guides
+        "editor.lineHighlightBorder": "#262f51",
+        "editorBracketMatch.border": "#5a6284",
+        "editorRuler.foreground": "#363f62",
+        "editorIndentGuide.background1": "#363f62",
+        "editorIndentGuide.activeBackground1": "#5a6284",
+        // Split view borders
+        //"editorGroup.border": "#363f62",
+        //"panel.border": "#363f62",
+        "statusBar.border": "#363f62",
+        "titleBar.border": "#363f62"
     },
     "tokenColors": [
         {
