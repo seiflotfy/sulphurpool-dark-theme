@@ -1,0 +1,21 @@
+{
+  "name": "sulphurpool-dark-theme",
+  "displayName": "Sulphurpool Dark Theme",
+  "description": "A dark theme based on Sulphurpool color scheme",
+  "version": "0.0.1",
+  "engines": {
+    "vscode": "^1.0.0"
+  },
+  "categories": [
+    "Themes"
+  ],
+  "contributes": {
+    "themes": [
+      {
+        "label": "Sulphurpool Dark",
+        "uiTheme": "vs-dark",
+        "path": "./themes/sulphurpool-dark-color-theme.json"
+      }
+    ]
+  }
+}
