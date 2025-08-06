@@ -1,7 +1,7 @@
 {
-  "name": "sulphurpool-dark-theme",
-  "displayName": "Sulphurpool Dark Theme",
-  "description": "A dark theme based on Sulphurpool color scheme",
+  "name": "geekyogre-themes",
+  "displayName": "Geeky Orgre Themes",
+  "description": "A collection of popular themes modified",
   "version": "0.0.1",
   "engines": {
     "vscode": "^1.0.0"
@@ -12,9 +12,14 @@
   "contributes": {
     "themes": [
       {
-        "label": "Sulphurpool Dark",
+        "label": "Ogre Sulphurpool Dark",
         "uiTheme": "vs-dark",
         "path": "./themes/sulphurpool-dark-color-theme.json"
+      },
+      {
+        "label": "Ogre Nord",
+        "uiTheme": "vs-dark",
+        "path": ""
       }
     ]
   }
