@@ -19,7 +19,7 @@
       {
         "label": "Ogre Nord",
         "uiTheme": "vs-dark",
-        "path": ""
+        "path": "./themes/nord-color-theme.json"
       }
     ]
   }
